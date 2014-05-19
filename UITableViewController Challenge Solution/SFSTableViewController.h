@@ -1,5 +1,5 @@
 //
-//  SFSViewController.h
+//  SFSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Stephen Sparks on 2014-05-18.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SFSViewController : UIViewController
+@interface SFSTableViewController : UITableViewController
 
 @end
